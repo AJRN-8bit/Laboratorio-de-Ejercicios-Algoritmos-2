@@ -1,0 +1,7 @@
+C:\Users\Azai J.RN\Documents\School stuff\MyCodes\Repos surface\Laboratorio 2 Algoritmos\obj\Debug\Laboratorio 2 Algoritmos.csproj.AssemblyReference.cache
+C:\Users\Azai J.RN\Documents\School stuff\MyCodes\Repos surface\Laboratorio 2 Algoritmos\obj\Debug\Laboratorio 2 Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\Azai J.RN\Documents\School stuff\MyCodes\Repos surface\Laboratorio 2 Algoritmos\bin\Debug\Laboratorio 2 Algoritmos.exe.config
+C:\Users\Azai J.RN\Documents\School stuff\MyCodes\Repos surface\Laboratorio 2 Algoritmos\bin\Debug\Laboratorio 2 Algoritmos.exe
+C:\Users\Azai J.RN\Documents\School stuff\MyCodes\Repos surface\Laboratorio 2 Algoritmos\bin\Debug\Laboratorio 2 Algoritmos.pdb
+C:\Users\Azai J.RN\Documents\School stuff\MyCodes\Repos surface\Laboratorio 2 Algoritmos\obj\Debug\Laboratorio 2 Algoritmos.exe
+C:\Users\Azai J.RN\Documents\School stuff\MyCodes\Repos surface\Laboratorio 2 Algoritmos\obj\Debug\Laboratorio 2 Algoritmos.pdb
